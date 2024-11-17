@@ -1,0 +1,27 @@
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+    h1 {
+        font-weight: 400;
+        margin: 10px 40px;
+
+        img {
+            height: 70px;
+        }
+    }
+        
+    nav {
+        ul {
+            display: flex;
+            margin: 0px 20px;
+
+            li {
+                margin: 0px 20px;
+            }
+        }
+    }
+}
